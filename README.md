@@ -1,10 +1,9 @@
-<h1 align="center">Hello World!</h1>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=o7dn&label=Profile%20views&color=0e75b6&style=flat" alt="o7dn" /> </p>
-
 <h1 align="center">Hi 👋, I'm H9nt</h1>
 <h3 align="center">I'm a freelance reverse engineer / backend frontend dev</h3>
 
 - 🌱 I’m currently learning **C++ / c#**
+
+- 📫 How to reach me **dev@reverse4free.lol**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
